@@ -1,0 +1,5 @@
+Input Manager:
+- "Jump": space and joystick button 0
+
+Physics 2D:
+- Queries Start In Colliders: unticked
